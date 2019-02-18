@@ -1,6 +1,6 @@
 {
   "name": "oauth2orize",
-  "version": "1.11.0",
+  "version": "1.11.1",
   "description": "OAuth 2.0 authorization server toolkit for Node.js.",
   "keywords": [
     "oauth",
@@ -22,6 +22,10 @@
     {
       "name": "Samuel Judson",
       "url": "https://www.sjudson.com/"
+    },
+    {
+      "name": "PoziWorld",
+      "url": "https://github.com/PoziWorld"
     }
   ],
   "repository": {
